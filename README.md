@@ -1,7 +1,7 @@
 # Bob's Burgers
 Welcome to Bobs Burgers! Order, pick up, reorder and 86 all of the burgers you want!
 
-__Sequelize version GitHub link:  https://github.com/MatthewBryantDonovan/burgerSequelize__
+__Sequelize version GitHub link: https://github.com/MatthewBryantDonovan/burgerSequelize__
 
 __Sequelize version Heroku link: https://mybobsburgersequelize.herokuapp.com/__
 
