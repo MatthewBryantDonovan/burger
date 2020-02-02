@@ -1,4 +1,4 @@
-# burger
+# Bob's Burgers
 Welcome to Bobs Burgers! Order, pick up, reorder and 86 all of the burgers you want!
 
 ![Home Page](./readme_pics/home.PNG)
